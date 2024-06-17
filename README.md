@@ -1,5 +1,8 @@
 # Forum Guidebook
 This repo is a wiki on ITB-style forums that hopes to serve as a guide for those who doesn't know what it is and for those who wants to learn more. [START HERE](Forum.md)
+
+## Table of Contents
+- [Glossary](Glossary.md)
 ## Purposes
 The purposes of this project are:
 1. To make myself understand more.
