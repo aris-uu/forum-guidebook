@@ -13,5 +13,5 @@ Pada umumnya, aturan forum terdiri dari beberapa aturan berikut.
 Setelah aturan forum disebutkan oleh danlap, biasanya danlap akan memerintahkan seseorang untuk menginterupsi, dan orang yang menginterupsi akan diperintahkan untuk mengulang kembali aturan forum.
 
 > [!TIP]
-> Saat danlap berkata, "Satu orang yang paling fokus, interupsi aku!" sebaiknya semua [peserta forum](Peserta%20Forum.md) menginterupsi. Jika tidak, [barikade](Barikade.md) akan mengatakan, "CUMAN SEGINI YANG FOKUS?! FOKUS, MAS, MBAK!"
+> Saat danlap berkata, "Satu orang yang paling fokus, interupsi aku!" sebaiknya semua [peserta forum](Peserta_Forum.md) menginterupsi. Jika tidak, [barikade](Barikade.md) akan mengatakan, "CUMAN SEGINI YANG FOKUS?! FOKUS, MAS, MBAK!"
 

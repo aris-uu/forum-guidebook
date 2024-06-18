@@ -1,9 +1,9 @@
 # Forum
 
-Forum adalah suatu pertemuan antara [danlap](Danlap) dan [peserta forum](Peserta%20Forum) dengan tingkat keseriusan dan intensitas yang tinggi.
+Forum adalah suatu pertemuan antara [danlap](Danlap) dan [peserta forum](Peserta_Forum.md) dengan tingkat keseriusan dan intensitas yang tinggi.
 ## Unsur-Unsur Forum
-- [Danlap](Danlap)
-- [Peserta Forum](Peserta%20Forum)
+- [Danlap](Danlap.md)
+- [Peserta_Forum](Peserta_Forum.md)
 - [Barikade](Barikade)
-- [Aturan forum](Aturan%20Forum)
+- [Aturan forum](Aturan_Forum.md)
 
