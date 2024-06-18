@@ -3,8 +3,8 @@ This repo is a wiki on ITB-style forums that hopes to serve as a guide for those
 
 ## Table of Contents
 - [Glossary](Glossary.md)
-
-
+- [Forum](Forum.md)
+- 
 ## Purposes
 The purposes of this project are:
 1. To make myself understand more.
